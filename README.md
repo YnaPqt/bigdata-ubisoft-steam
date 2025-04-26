@@ -49,4 +49,4 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 
 
 # Key Findings:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html
