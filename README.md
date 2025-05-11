@@ -49,7 +49,7 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 
 ---
 # Key Findings:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html
+[https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html)
 
 **Top 10 publishers who released the most games on Steam**
 ![image](https://github.com/user-attachments/assets/bd4ce966-77f6-448d-bbf7-54c2700856e1)
@@ -93,7 +93,6 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 **Top 10 genres with good average rating**
 ![image](https://github.com/user-attachments/assets/0a2be534-1565-49c8-94b5-f6665f53bda1)
-
 
 
 **Top 10 genres with highest revenue**
