@@ -52,43 +52,60 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html
 
 **Top 10 publishers who released the most games on Steam**
-![image](https://github.com/user-attachments/assets/8921c6e9-56e2-4057-a9e3-8612a574db50)
+![image](https://github.com/user-attachments/assets/bd4ce966-77f6-448d-bbf7-54c2700856e1)
+
 
 **Top 10 best rated games**
-![image](https://github.com/user-attachments/assets/2c41300b-22a4-45bf-ab12-ba5050eaaa34)
+![image](https://github.com/user-attachments/assets/2520e22b-1a23-4398-99e2-b055aa12b65d)
+
 
 **Steam Game Releases – Trends Over the Years**
-![image](https://github.com/user-attachments/assets/67f3a226-7688-44e6-8477-d9b6939a68f0)
+![image](https://github.com/user-attachments/assets/3d18834d-9254-4f36-86d8-719996131ded)
+
 
 **Price distribution**
-![image](https://github.com/user-attachments/assets/c27a7a2a-8c0e-4792-8dcf-8381621b0b40)
+![image](https://github.com/user-attachments/assets/e48c0416-a34a-46d6-aae3-86c7028548e7)
+
 
 **Number of discounted games per year**
-![image](https://github.com/user-attachments/assets/c1fb0d0e-c4bf-44f1-9425-b1b6273f343d)
+![image](https://github.com/user-attachments/assets/a39df4db-9af4-430a-bcc1-76b50dbfaa97)
+
 
 **Discount percentage per year**
 ![image](https://github.com/user-attachments/assets/a6811bef-64e9-43b6-98c5-2d526b3f7ddc)
 
+
 **Top  most represented languages**
-![image](https://github.com/user-attachments/assets/45d4ad47-d418-45f3-b410-3f8f57fffd24)
+![image](https://github.com/user-attachments/assets/d9aec350-d80e-4f60-bfb1-f2d6a1d50d57)
+
 
 **Required Age Distribution of restricted games**
-![image](https://github.com/user-attachments/assets/020a5103-0ab8-4dcb-aa9b-9e657f18b24e)
+![image](https://github.com/user-attachments/assets/f3adf769-c94f-4f46-a8ab-515dd4537606)
+
 
 **Required Age per genre**
-![image](https://github.com/user-attachments/assets/1fc6172a-7880-4694-ae57-d9bc606ed189)
+![image](https://github.com/user-attachments/assets/8a77b4e0-5188-47cd-b2ef-22fe73dd565a)
+
 
 **Top 10 most represented genres**
-![image](https://github.com/user-attachments/assets/af6a8500-4b9c-471d-9a1a-28542f0360d5)
+![image](https://github.com/user-attachments/assets/b8cc7372-07a8-4008-a531-fc29284455e0)
+
 
 **Top 10 genres with good average rating**
-![image](https://github.com/user-attachments/assets/c898bec9-1f94-42a0-9873-69eebd716fe2)
+![image](https://github.com/user-attachments/assets/0a2be534-1565-49c8-94b5-f6665f53bda1)
+
+
 
 **Top 10 genres with highest revenue**
-![image](https://github.com/user-attachments/assets/58f074a4-9c4c-414c-ac48-dcf4c2bb3790)
+![image](https://github.com/user-attachments/assets/71602109-32d7-4db4-aa5f-7b453941f3c9)
 
+**Platforms**
+![image](https://github.com/user-attachments/assets/075500ca-d5be-465f-b92c-19cb57acaa08)
 
+**Number of games in each platform**
+![image](https://github.com/user-attachments/assets/fe94fa43-b120-4deb-92d8-8ab5a8e0b4fa)
 
+![image](https://github.com/user-attachments/assets/1ad86667-2e13-472a-9fb5-f81594f5b668)
 
 
 
