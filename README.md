@@ -49,10 +49,11 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 
 ---
 # Key Findings:
-[https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html)
+[[https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/24004397296925/3637557713592149/528102077592261/latest.html)
 
 **Top 10 publishers who released the most games on Steam**
-![image](https://github.com/user-attachments/assets/bd4ce966-77f6-448d-bbf7-54c2700856e1)
+![image](https://github.com/user-attachments/assets/c2cb03b2-c3fd-492b-a0ef-96c5d349e3ac)
+
 
 
 **Top 10 best rated games**
@@ -60,7 +61,8 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 
 
 **Steam Game Releases – Trends Over the Years**
-![image](https://github.com/user-attachments/assets/3d18834d-9254-4f36-86d8-719996131ded)
+![image](https://github.com/user-attachments/assets/46080839-45ff-40d2-87a9-615055ce0050)
+
 
 
 **Price distribution**
@@ -68,7 +70,8 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 
 
 **Number of discounted games per year**
-![image](https://github.com/user-attachments/assets/a39df4db-9af4-430a-bcc1-76b50dbfaa97)
+![image](https://github.com/user-attachments/assets/a80ef33b-98d0-452d-94b2-0270b1e718c8)
+
 
 
 **Discount percentage per year**
@@ -76,7 +79,8 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 
 
 **Top  most represented languages**
-![image](https://github.com/user-attachments/assets/d9aec350-d80e-4f60-bfb1-f2d6a1d50d57)
+![image](https://github.com/user-attachments/assets/acf908ec-e79a-4afa-837f-80f95c92183a)
+
 
 
 **Required Age Distribution of restricted games**
@@ -88,7 +92,8 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 
 
 **Top 10 most represented genres**
-![image](https://github.com/user-attachments/assets/b8cc7372-07a8-4008-a531-fc29284455e0)
+![image](https://github.com/user-attachments/assets/c43ed807-1001-42c1-9f21-148aff08a92d)
+
 
 
 **Top 10 genres with good average rating**
